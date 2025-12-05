@@ -2,3 +2,9 @@
 display: flex;
 justify-content: center;
 }
+
+.txt-like{
+    font-weight: bold;
+    font-size: 14px;
+    color: black;
+}
